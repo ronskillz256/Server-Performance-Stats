@@ -13,4 +13,4 @@ This is a simple bash script to analyze basic server performance stats.
    cd Server-Performance-Stats
 
 #Project URL 
-https://github.com/ronskillz256/Server-Performance-Stats
+https://roadmap.sh/projects/server-stats
