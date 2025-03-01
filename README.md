@@ -11,3 +11,6 @@ This is a simple bash script to analyze basic server performance stats.
    ```bash
    git clone https://github.com/ronskillz256/Server-Performance-Stats.git
    cd Server-Performance-Stats
+
+#Project URL 
+https://github.com/ronskillz256/Server-Performance-Stats
